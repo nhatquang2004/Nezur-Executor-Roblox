@@ -12,6 +12,7 @@ To get started with Nezur Executor, follow these simple steps:
 
 
 
+
 ![Nezur Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
